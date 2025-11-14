@@ -8,13 +8,13 @@ Users can book tables, view offers, manage reservations, while admins can add/up
 ## 📸 Screenshots
 
 (Add your screenshot here after upload)
+![Screenshot](./s1.png)
+![Screenshot](./s2.png)
+![Screenshot](./s3.png)
+![Screenshot](./s4.png)
+![Screenshot](./s5.png)
+![Screenshot](./s6.png)
 
-![Screenshot]("./Screenshot 2025-11-14 114604.png")
-![Screenshot]("./Screenshot 2025-11-14 114707.png")
-![Screenshot]("./Screenshot 2025-11-14 114737.png")
-![Screenshot]("./Screenshot 2025-11-14 114751.png")
-![Screenshot]("./Screenshot 2025-11-14 114809.png")
-![Screenshot]("./Screenshot 2025-11-14 114820.png")
 
 
 ---
