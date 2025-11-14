@@ -93,6 +93,14 @@ Users can book tables, view offers, manage reservations, while admins can add/up
 ### 🔧 Backend Setup
 
 ```bash
-cd backend
+cd Backend
 npm install
-npm start
+nodemon app.js
+
+
+### 🔧 Frontend Setup
+
+```bash
+cd Frontend
+npm install
+npm run dev
