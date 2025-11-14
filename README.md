@@ -9,7 +9,13 @@ Users can book tables, view offers, manage reservations, while admins can add/up
 
 (Add your screenshot here after upload)
 
-![App Screenshot](./screenshot.png)
+![Screenshot](./Screenshot 2025-11-14 114604.png)
+![Screenshot](./Screenshot 2025-11-14 114707.png)
+![Screenshot](./Screenshot 2025-11-14 114737.png)
+![Screenshot](./Screenshot 2025-11-14 114751.png)
+![Screenshot](./Screenshot 2025-11-14 114809.png)
+![Screenshot](./Screenshot 2025-11-14 114820.png)
+
 
 ---
 
